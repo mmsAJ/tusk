@@ -7,7 +7,12 @@ Sample2
 Sample3
 Sample4
 
+New1
+New2
 
 End.... 
 
+Done my changes
+
 Final copy
+
